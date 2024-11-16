@@ -1,4 +1,3 @@
-Here's an updated **README.md** file, including the use of `useState` for managing state in your React Tic Tac Toe project:
 
 ---
 
